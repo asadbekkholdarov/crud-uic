@@ -1,5 +1,5 @@
 # crud-uic
-
+Please clone the project, because json-server is used for locally
 ## Project setup
 ```
 npm install
